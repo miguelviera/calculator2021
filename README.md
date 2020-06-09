@@ -1,2 +1,0 @@
-# calculaotr
-Created with CodeSandbox
